@@ -11,4 +11,4 @@ print(f"Hello {name}! You are {age} years old, and your favorite color is {color
 print(0xABCDEF1234)
 print(hex(65535))
 
-print("putangina mo vinz gregorio")
+print("gwapo mo vinz gregorio")
